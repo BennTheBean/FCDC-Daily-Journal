@@ -28,12 +28,12 @@ function rowColorChanger(e, sheet, row) {
 
   // CHANGE GROUP NAMES AS NEEDED
   const keywordsColors = {
-    'Razzle Berry': '#e06666', // Red
-    'Zesty Orange': '#f6b26b', // Orange
-    'Laser Lemon': '#ffd966', // Yellow
-    'Lime Dancin': '#93c47d', // Green
-    'Indigo Go': '#6d9eeb', // Blue
-    'Purple Pizzaz': '#8e7cc3', // Purple
+    'Red Group': '#e06666', // Red
+    'Orange Group': '#f6b26b', // Orange
+    'Yellow Group': '#ffd966', // Yellow
+    'Green Group': '#93c47d', // Green
+    'Blue Group': '#6d9eeb', // Blue
+    'Purple Group': '#8e7cc3', // Purple
     'ACT': '#c0c0c0' // Silver
   };
 
