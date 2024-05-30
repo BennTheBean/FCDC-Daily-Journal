@@ -16,7 +16,7 @@ function autoSort(sheet) {
 
   // Sort the data by the specified columns
   range.sort([
-    { column: 2, ascending: true }, // Sorted by Week first
+    { column: 2, ascending: false }, // Sorted by Week first
     { column: 3, ascending: true }, // Sorted by Group second
     { column: 1, ascending: true } // Sorted by Date last
   ]);
